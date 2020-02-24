@@ -2,7 +2,7 @@ version: '3'
 
 services:
   world_of_games:
-    image: simchabh/world_of_games
+    image: simcah-qb/world_of_games
     build: .
     ports:
       - 8777:80
